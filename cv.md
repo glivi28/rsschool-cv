@@ -62,6 +62,19 @@ and an additional source of income.
 	&__container {
 		position: relative;
 	}           
-```
+```       
+=====================================================================
+            
+## **Courses:**
+            
+- From 0 to 1 (HTML/CSS by Vadim Prokopchuk)
+- HTML/CSS course by Evgen Andrukanich
+- HTML/CSS courses from Udemy
             
 =====================================================================
+            
+## **Languages:**
+
+- Ukranian(Native)
+- English(A2)
+- Polish(A2)
